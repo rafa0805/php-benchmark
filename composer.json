@@ -1,0 +1,17 @@
+{
+    "name": "rafa0805/php-benchmark",
+    "description": "php, performance",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rafa0805\\PhpBenchmark\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Y. Kosaka",
+            "email": "theryk0805@gmail.com"
+        }
+    ],
+    "require": {}
+}
